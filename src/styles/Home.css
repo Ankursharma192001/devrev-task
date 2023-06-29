@@ -1,0 +1,13 @@
+:root {
+	--primary: #fcde67;
+	--secondary: #5bccf6;
+	--extra: #030e12;
+	background-color: var(--primary);
+}
+img {
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
